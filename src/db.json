@@ -1,0 +1,122 @@
+{
+  "jacket": [
+    {
+      "id": 1,
+      "img": "https://i.postimg.cc/NFNSj6rN/Slide-Img-One.png",
+      "size": "XXS ",
+      "price": "2900 грн",
+      "title": "Белая куртка"
+    },
+    {
+        "id": 2,
+        "img": "https://i.postimg.cc/NFNSj6rN/Slide-Img-One.png",
+        "size": "XS ",
+        "price": "3200 грн",
+        "title": "Белая куртка"
+    },
+    {
+        "id": 3,
+        "img": "https://i.postimg.cc/NFNSj6rN/Slide-Img-One.png",
+        "size": "S",
+        "price": "3300 грн",
+        "title": "Белая куртка"
+    },
+    {
+        "id": 4,
+        "img": "https://i.postimg.cc/NFNSj6rN/Slide-Img-One.png",
+        "size": "M",
+        "price": "3400 грн",
+        "title": "Белая куртка"
+    },
+    {
+        "id": 5,
+        "img": "https://i.postimg.cc/NFNSj6rN/Slide-Img-One.png",
+        "size": "L",
+        "price": "3500 грн",
+        "title": "Белая куртка"
+    }
+  ],
+  "coat": [
+    {
+      "id": 1,
+      "img": "https://i.postimg.cc/C1Rms3Z4/Slide-Img-Two.png",
+      "size": "XS M L",
+      "price": "3150 грн",
+      "title": "Синее пальто"
+    },
+    {
+      "id": 2,
+      "img": "https://i.postimg.cc/C1Rms3Z4/Slide-Img-Two.png",
+      "size": "M",
+      "price": "3250 грн",
+      "title": "Синее пальто"
+    },
+    {
+      "id": 3,
+      "img": "https://i.postimg.cc/C1Rms3Z4/Slide-Img-Two.png",
+      "size": "L",
+      "price": "3350 грн",
+      "title": "Синее пальто"
+    }
+  ],
+  "furCoat": [
+    {
+      "id": 1,
+      "img": "https://i.postimg.cc/ZnrPf4J6/Slide-Img-Tree.png",
+      "size": "XS",
+      "price": "4200 грн",
+      "title": "Бежевая шуба"
+    },
+    {
+      "id": 2,
+      "img": "https://i.postimg.cc/ZnrPf4J6/Slide-Img-Tree.png",
+      "size": "S",
+      "price": "4300 грн",
+      "title": "Бежевая шуба"
+    },
+    {
+      "id": 3,
+      "img": "https://i.postimg.cc/ZnrPf4J6/Slide-Img-Tree.png",
+      "size": "L",
+      "price": "4500 грн",
+      "title": "Бежевая шуба"
+    }
+  ],
+  "parka": [
+    {
+        "id": 1,
+        "img": "https://i.postimg.cc/mkNMYjSw-/Slide-Img-Four.png",
+        "size": "XXS XS S M L",
+        "price": "2900 грн",
+        "title": "Синяя парка"
+    },
+    {
+        "id": 2,
+        "img": "https://i.postimg.cc/mkNMYjSw-/Slide-Img-Four.png",
+        "size": "XS",
+        "price": "3200 грн",
+        "title": "Синяя парка"
+    },
+    {
+        "id": 3,
+        "img": "https://i.postimg.cc/mkNMYjSw-/Slide-Img-Four.png",
+        "size": "S",
+        "price": "3300 грн",
+        "title": "Синяя парка"
+    },
+    {
+        "id": 4,
+        "img": "https://i.postimg.cc/mkNMYjSw-/Slide-Img-Four.png",
+        "size": "M",
+        "price": "3400 грн",
+        "title": "Синяя парка"
+    },
+    {
+        "id": 5,
+        "img": "https://i.postimg.cc/mkNMYjSw-/Slide-Img-Four.png",
+        "size": "L",
+        "price": "3500 грн",
+        "title": "Синяя парка"
+    }
+  ]
+}

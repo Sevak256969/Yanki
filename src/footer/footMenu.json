@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "headName": "КОМПАНИЯ",
+    "a1": [
+      { "id": 5, "name": "О нас", "path": "/aboutUs" },
+      { "id": 6, "name": "Контакты", "path": "/aboutUs" }
+    ]
+  },
+  {
+    "id": 2,
+    "headName": "ПОЛЕЗНОЕ",
+    "a1": [
+      { "id": 7, "name": "Оплата и доставка", "path": "/payment" },
+      { "id": 8, "name": "Условия возврата", "path": "/back" },
+      { "id": 9, "name": "Бонусная система", "path": "/bonusSystem" }
+    ]
+  },
+  {
+    "id": 3,
+    "headName": "ПОКУПАТЕЛЮ",
+    "a1": [
+      { "id": 10, "name": "Избранное", "path": "/choosen" },
+      { "id": 11, "name": "Публичная оферта", "path": "/publik" },
+      { "id": 12, "name": "Политика конфиденциальности", "path": "/privence" }
+    ]
+  },
+  {
+    "id": 4,
+    "headName": "КОНТАКТЫ",
+    "a1": [
+      {
+        "id": 100,
+        "links": [
+          {
+            "id": 29,
+            "img": "./inst.png",
+            "path_link": "https://www.instagram.com/"
+          },
+          {
+            "id": 39,
+            "img": "./twit.png",
+            "path_link": "https://www.facebook.com/"
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "name": "+38(073) 096 36 44",
+        "path_link": "tel:+38(073) 096 36 44"
+      },
+      {
+        "id": 22,
+        "name": "info@yanki.com",
+        "path_link": "mailto:info@yanki.com"
+      }
+    ]
+  }
+]

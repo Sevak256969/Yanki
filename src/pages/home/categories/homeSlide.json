@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "img": "./Rectangle 11.png",
+    "name": "Куртки"
+  },
+  {
+    "id": 2,
+    "img": "./Rectangle 10.png",
+    "name": "Пальто"
+  },
+  {
+    "id": 3,
+    "img": "./Rectangle 7.png",
+    "name": "Шубы"
+  },
+  {
+    "id": 4,
+    "img": "./Rectangle 9.png",
+    "name": "Парки"
+  },
+  {
+    "id": 5,
+    "img": "./Rectangle 9.png",
+    "name": "Парки"
+  },
+  {
+    "id": 6,
+    "img": "./Rectangle 9.png",
+    "name": "Парки"
+  },
+  {
+    "id": 7,
+    "img": "./Rectangle 9.png",
+    "name": "Парки"
+  }
+]

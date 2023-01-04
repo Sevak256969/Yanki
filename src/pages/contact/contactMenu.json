@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "headName": "В социальных сетях",
+    "a1": [
+      {
+        "id": 100,
+        "links": [
+          {
+            "id": 29,
+            "img": "./insta.png",
+            "path_link": "https://www.instagram.com/"
+          },
+          {
+            "id": 39,
+            "img": "./twitter.png",
+            "path_link": "https://www.facebook.com/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "headName": "По телефону",
+    "a1": [
+      {
+        "id": 21,
+        "name": "+38(067) 158 82 66",
+        "path_link": "tel:+38(067) 158 82 66"
+      },
+      {
+        "id": 22,
+        "name": "+38(073) 226 39 81",
+        "path_link": "tel:++38(073) 226 39 81"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "headName": "По почте",
+    "a1": [
+      {
+        "id": 24,
+        "name": "info@yanki.com",
+        "path_link": "mailto:info@yanki.com"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "headName": "Наш офис",
+    "a1": [{ "id": 1, "name": "г. Киев, улица Батумская, 18", "path": "/map" }]
+  }
+]

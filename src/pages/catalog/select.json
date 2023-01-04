@@ -1,0 +1,76 @@
+[
+  [
+    {
+      "label": "Размер",
+      "value": "size"
+    },
+    {
+      "label": "XXS",
+      "value": "XXS"
+    },
+    {
+      "label": "S",
+      "value": "S"
+    },
+    {
+      "label": "M",
+      "value": "M"
+    },
+    {
+      "label": "XL",
+      "value": "XL"
+    },
+    {
+      "label": "XXL",
+      "value": "XXL"
+    }
+  ],
+  [
+    { "label": "Цвет", "value": "color" },
+    {
+      "label": "White",
+      "value": "White"
+    },
+    {
+      "label": "Blue",
+      "value": "Blue"
+    },
+    {
+      "label": "Beige",
+      "value": "Beige"
+    }
+  ],
+  [
+    { "label": "Цена", "value": "price" },
+    {
+      "label": "2900",
+      "value": "2900"
+    },
+    {
+      "label": "3150",
+      "value": "3150"
+    },
+    {
+      "label": "4200",
+      "value": "4200"
+    }
+  ],
+  [
+    {
+      "label": "Сортировать по",
+      "value": "sort"
+    },
+    {
+      "label": "Размер",
+      "value": "size"
+    },
+    {
+      "label": "Цвет",
+      "value": "color"
+    },
+    {
+      "label": "Цена",
+      "value": "price"
+    }
+  ]
+]
