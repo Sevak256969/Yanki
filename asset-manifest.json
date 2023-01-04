@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/yanki/static/css/main.9c3dbd77.css",
+    "main.js": "/yanki/static/js/main.accf4c17.js",
+    "static/media/Yanki2.png": "/yanki/static/media/Yanki2.253c09447664a1b09f90.png",
+    "static/media/Yanki3.png": "/yanki/static/media/Yanki3.46a1861b225238a6034c.png",
+    "static/media/Yanki1.png": "/yanki/static/media/Yanki1.918d4a29bacf10e7d720.png",
+    "static/media/YankiM1.png": "/yanki/static/media/YankiM1.a520f5c6cb9bc99b6ecf.png",
+    "static/media/Rectangle 9.png": "/yanki/static/media/Rectangle 9.7dd9b3ca2aa2f565fa1c.png",
+    "static/media/Rectangle 10.png": "/yanki/static/media/Rectangle 10.90e07934226e441dcdb5.png",
+    "static/media/Rectangle 7.png": "/yanki/static/media/Rectangle 7.736ce383d8cfe2c38f9a.png",
+    "static/media/Rectangle 11.png": "/yanki/static/media/Rectangle 11.517a172e06561230ea3c.png",
+    "static/media/1.png": "/yanki/static/media/1.3074f9e98fdb91adfabc.png",
+    "static/media/2.png": "/yanki/static/media/2.d47f040713ed5e783309.png",
+    "static/media/err.jpg": "/yanki/static/media/err.565f532d4a083f3cbe21.jpg",
+    "index.html": "/yanki/index.html",
+    "main.9c3dbd77.css.map": "/yanki/static/css/main.9c3dbd77.css.map",
+    "main.accf4c17.js.map": "/yanki/static/js/main.accf4c17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c3dbd77.css",
+    "static/js/main.accf4c17.js"
+  ]
+}
